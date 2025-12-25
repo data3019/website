@@ -17943,8 +17943,8 @@ form textarea:required:valid {
 
 .marquee__item {
   position: relative;
-  width: 430px;
-  height: 320px;
+  width: auto;
+  height: auto;
   -moz-border-radius: var(--_radius-m);
        border-radius: var(--_radius-m);
   overflow: hidden;
@@ -17991,8 +17991,8 @@ form textarea:required:valid {
   color: var(--t-opp-bright);
 }
 .marquee__item.item-vertical {
-  width: 400px;
-  height: 460px;
+  width: 100%;
+  height: 100%;
 }
 .marquee__item.item-regular {
   width: auto;
@@ -18064,8 +18064,8 @@ form textarea:required:valid {
 }
 @media only screen and (min-width: 1200px) {
   .marquee__item {
-    width: 540px;
-    height: 400px;
+    width: 100%;
+  height: 100%;
   }
   .marquee__item.item-vertical {
     width: 470px;
@@ -19564,7 +19564,7 @@ form textarea:required:valid {
 
 .mxd-partners-cards__item {
   position: relative;
-  height: 250px;
+  height: 150px;
 }
 
 .mxd-partners-cards__inner {
