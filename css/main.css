@@ -435,19 +435,19 @@
 }
 
 .preview-image-1 {
-  background-image: url(/img/home/project/1.gif);
+  background-image: url("https://data3019.github.io/website/img/home/project/1.gif");
 }
 
 .preview-image-2 {
-  background-image: url(/img/home/project/2.jpg);
+  background-image: url("https://data3019.github.io/website/img/home/project/2.jpg");
 }
 
 .preview-image-3 {
-  background-image: url(/img/home/project/3.webp);
+  background-image: url("https://data3019.github.io/website/img/home/project/3.webp");
 }
 
 .preview-image-4 {
-  background-image: url(/img/home/project/4.gif);
+  background-image: url("https://data3019.github.io/website/img/home/project/4.gif");
 }
 
 
